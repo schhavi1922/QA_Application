@@ -1,0 +1,16 @@
+com\example\demo\Controller\Controller.class
+com\example\demo\Entity\Question.class
+com\example\demo\DemoApplication.class
+com\example\demo\Service\UserService.class
+com\example\demo\Service\Impl\AnswerServiceImpl.class
+com\example\demo\Entity\User.class
+com\example\demo\Form\AnswerForm.class
+com\example\demo\Service\QuestionService.class
+com\example\demo\Repository\QuestionRepository.class
+com\example\demo\Form\QuestionForm.class
+com\example\demo\Entity\Answer.class
+com\example\demo\Repository\AnswerRepository.class
+com\example\demo\Repository\UserRepository.class
+com\example\demo\Service\Impl\QuestionServiceImpl.class
+com\example\demo\Service\Impl\UserServiceImpl.class
+com\example\demo\Service\AnswerService.class
